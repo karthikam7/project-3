@@ -1,0 +1,132 @@
+.sec1{
+    background-image: url(background.jpg);
+    background-size: cover;
+ 
+    padding: 300px 0px;
+}
+
+.head1{
+    text-align: center;
+}
+.h2{
+    text-align: right;
+    
+}
+.anchor{
+    text-decoration: none;
+    background-color: blue;
+    padding: 5px;
+     margin-top: 10px;
+}
+.sec2{
+    padding: 50px 0px;
+}
+
+.sec3{
+    background-color: rgb(109, 109, 240);
+}
+.icons1{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 3px;
+    width: 10%;
+   text-align: center;
+   margin:15px;
+}
+.icons2{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 3px;
+    width: 10%;
+   text-align: center;
+   margin: 15px;
+}
+.icons3{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 3px;
+    width: 10%;
+   text-align: center;
+   margin: 15px;
+}
+.icons4{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 3px;
+    width: 10%;
+   text-align: center;
+   margin: 15px;
+}
+.icons5{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 3px;
+    width: 10%;
+   text-align: center;
+   margin: 15px;
+}
+.icons6{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 3px;
+    width: 10%;
+   text-align: center;
+   margin: 15px;
+}
+.img1{
+  width: 100%;
+}
+.inbox5-3{
+    background-color: blue;
+   height: 200px;
+   text-align: center;
+   padding-top: 70px;
+   
+}
+.sec4{
+    padding: 20px 0px;
+}
+.head6{
+    color: blue;
+}
+.head7{
+
+    color:blue;
+}
+.head8{
+    color: blue;
+}
+.head9{
+    text-align: center;
+}
+.img3{
+    text-align: center;
+}
+.anchor2{
+    text-decoration: none;
+    background-color: blue;
+    padding:6px;
+    /* margin-left: 600px;
+    margin-top: 5px; */
+}
+.inbox6,.inbox6-1,.inbox6-2{
+    border: 2px solid rgba(128, 128, 128, 0.156);   
+    text-align: center;
+    height: 400px;
+}
+.btns{
+ margin-left: 46%;
+}
+.sec7{
+    padding: 20px 0px;
+}
+
+.sub1{
+    text-align: center;
+}
+.sub2{
+    text-align: center;
+}
+.sec8{
+    background-color: rgb(148, 148, 240);
+}
